@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TheMostAwesomeThing</string>
+    <string name="which_is_more_awesome">Which is more AWESOME?</string>
+    <string name="or">or</string>
+    <string name="stats">STATS</string>
+    <string name="menu">MENU</string>
+    <string name="quit">QUIT</string>
+    <string name="stats_header">Your most awesome things:</string>
+
+    <string name="blank"></string>
+    <string name="internet">&lt;a href=https://en.wikipedia.org/wiki/Internet>The Internet&lt;/a></string>
+    <string name="life">&lt;a href=https://en.wikipedia.org/wiki/Life>Life&lt;/a></string>
+    <string name="universe">&lt;a href=https://en.wikipedia.org/wiki/Universe>The Universe&lt;/a></string>
+    <string name="cats">&lt;a href=https://en.wikipedia.org/wiki/Cat>Cats&lt;/a></string>
+    <string name="dogs">&lt;a href=https://en.wikipedia.org/wiki/Dog>Dogs&lt;/a></string>
+    <string name="android">&lt;a href=https://en.wikipedia.org/wiki/Android_(operating_system)>Android&lt;/a></string>
+    <string name="computers">&lt;a href=https://en.wikipedia.org/wiki/Computer>Computers&lt;/a></string>
+    <string name="semiconductors">&lt;a href=https://en.wikipedia.org/wiki/Semiconductor>Semiconductors&lt;/a></string>
+    <string name="friends">&lt;a href=https://en.wikipedia.org/wiki/Friendship>Friends&lt;/a></string>
+    <string name="engineering">&lt;a href=https://en.wikipedia.org/wiki/Engineering>Engineering&lt;/a></string>
+    <string name="medicine">&lt;a href=https://en.wikipedia.org/wiki/Medicine>Modern medicine&lt;/a></string>
+    <string name="tacos">&lt;a href=https://en.wikipedia.org/wiki/Taco>Tacos&lt;/a></string>
+    <string name="snoopy">&lt;a href=https://en.wikipedia.org/wiki/Snoopy>Snoopy&lt;/a></string>
+    <string name="hope">&lt;a href=https://en.wikipedia.org/wiki/Hope>Hope&lt;/a></string>
+    <string name="fate">&lt;a href=https://en.wikipedia.org/wiki/Destiny>Fate&lt;/a></string>
+    <string name="football">&lt;a href=https://en.wikipedia.org/wiki/Football>Football&lt;/a></string>
+    <string name="bmw">&lt;a href=https://en.wikipedia.org/wiki/BMW>BMW&lt;/a></string>
+    <string name="music">&lt;a href=https://en.wikipedia.org/wiki/Music>Music&lt;/a></string>
+    <string name="icecream">&lt;a href=https://en.wikipedia.org/wiki/Ice_cream>Ice cream&lt;/a></string>
+    <string name="rollercoaster">&lt;a href=https://en.wikipedia.org/wiki/Roller_coaster>Roller coasters&lt;/a></string>
+    <string name="paris">&lt;a href=https://en.wikipedia.org/wiki/Paris>Paris&lt;/a></string>
+    <string name="breakingbad">&lt;a href=https://en.wikipedia.org/wiki/Breaking_Bad>Breaking Bad&lt;/a></string>
+    <string name="christmas">&lt;a href=https://en.wikipedia.org/wiki/Christmas>Christmas&lt;/a></string>
+    <string name="jousting">&lt;a href=https://en.wikipedia.org/wiki/Jousting>Jousting&lt;/a></string>
+
+</resources>
